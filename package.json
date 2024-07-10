@@ -1,13 +1,13 @@
 {
   "name": "FBStater",
   "version": "1.0.0",
-  "description": "Get your appState just like in c3c-fbstate!",
+  "description": "Get your appState like a pro!",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Rui Reogo (ruingl)",
+  "author": "Amiel Nico Diosa (NicoDev)",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
